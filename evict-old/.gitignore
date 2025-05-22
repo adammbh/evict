@@ -1,0 +1,12 @@
+.env
+*.pyc
+*.log
+*.jar
+*.gz
+*.log
+node_modules/
+plugins/
+__pycache__
+*.sql
+logs/
+cookies.txt
